@@ -1,0 +1,19 @@
+/*手机*/
+@media screen and (min-width: 320px) and (max-width: 750px) {
+    .container img {
+    width: 80%;
+    }
+}
+pre{
+    padding: 0px;
+}
+body { 
+    padding-top: 70px; 
+}
+.footer{
+    height: 38px;
+    margin-top: 15px;
+    background-color: #f8f9fa;
+    text-align: center;
+    line-height: 38px;
+}
